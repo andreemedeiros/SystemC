@@ -1,2 +1,5 @@
 # SystemC
-Ambiente de estudo de SystemC.
+## Referências:
+
+### Tutorial:
+https://www.doulos.com/knowhow/systemc/
