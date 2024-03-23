@@ -1,12 +1,12 @@
 # SystemC
 
 ## Basic:
-Contém códigos base de SystemC.
+Contains SystemC base codes.
 
 ## TLM:
-Contém códigos do treinamento doulos.
+Contains codes from the Doulos System TPM-2.0 training.
 
-## Referências:
+## References:
 
 ### Tutorial:
 https://www.doulos.com/knowhow/systemc/
