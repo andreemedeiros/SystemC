@@ -4,7 +4,7 @@
 Contains SystemC base codes.
 
 ## TLM:
-Contains codes from the Doulos System TPM-2.0 training.
+Contains codes from the Doulos System TLM-2.0 training.
 
 ## References:
 
